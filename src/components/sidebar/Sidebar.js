@@ -42,7 +42,7 @@ const Sidebar = () => {
   return (
     <div className="sidebar">
       <div className="sidebar_top">
-        <h3>Madness</h3>
+        <h3>Boards</h3>
         <ExpandMoreIcon />
       </div>
 
